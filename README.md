@@ -3,6 +3,7 @@
 ## Project Description
 This project explores various transformer-based and deep learning models to classify sentiments from tweets related to disasters. By categorizing tweets into disaster-related and non-disaster-related, the study aims to filter critical information for use by governmental and humanitarian agencies in real-time disaster response. The project compares the performance of models like BERT, RoBERTa, and DistilBERT with conventional deep learning models on this classification task.
 
+
 ## Models Employed
 - **BERT (Bidirectional Encoder Representations from Transformers)**
 - **RoBERTa (A Robustly Optimized BERT)** 
@@ -26,6 +27,9 @@ The project achieved the following performance metrics:
 - **RoBERTa**: Achieved an F1-score of 0.83.
 - **DistilBERT**: Slightly lower but effective, with an F1-score of 0.82.
 - **Deep Learning Baselines (LSTM, CNN)**: Lower F1-scores, ranging from 0.42 to 0.69, highlighting the superior performance of transformer-based models over the conventional NN models.
+
+## Includes
+An IEEE format report on this topic.
 
 ## Contributing
 Contributions are encouraged! Please fork this repository and submit pull requests with any enhancements or improvements.
